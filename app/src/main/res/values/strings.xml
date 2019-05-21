@@ -1,0 +1,19 @@
+<resources>
+    <string name="empty_username">Username must be alphanumeric</string>
+    <string name="empty_button">LOGIN</string>
+    <string name="new_user">SIGN UP</string>
+    <string name="signup_name">Enter your Name</string>
+    <string name="signup_username">Enter username</string>
+    <string name="signup_pass">Enter Password</string>
+    <string name="signup_repass">Re-enter password</string>
+    <string name="showbutton">Show</string>
+    <string name="RegisterButton">Register</string>
+    <string name="add_mobile">Enter Mobile Number</string>
+    <string name="app_name">CtOS</string>
+    <string name="full_name">Enter your full name</string>
+    <string name="gender">Select your gender :</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="pref_key">prefkey</string>
+</resources>
